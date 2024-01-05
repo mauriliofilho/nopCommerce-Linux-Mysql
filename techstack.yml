@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/nopCommerce-Linux-Mysql
 report_id: 849f743fa802fcfa51581d9fa3ce0e9a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:55:53+00:00'
+timestamp: '2024-01-05T08:31:42+00:00'
 requested_by: lalanikarim
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Core/Nop.Core.csproj
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Core/Nop.Core.csproj
   detection_source: Libraries/Nop.Core/Nop.Core.csproj
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -58,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/App_Data/SqlServer.Indexes.sql
   detection_source: Presentation/Nop.Web/App_Data/SqlServer.Indexes.sql
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -71,6 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Tests/Nop.Core.Tests/packages.config
   detection_source: Tests/Nop.Core.Tests/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -84,6 +90,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
   detection_source: Libraries/Nop.Data/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
   detection_source: Libraries/Nop.Data/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/6953/default_17650e39faa714f82fcdb12b14af73c704a15d2f.jpg
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Core/packages.config
   detection_source: Libraries/Nop.Core/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -118,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql
   detection_source: Repo Metadata
 - name: NUnit
   description: An open-source unit testing framework
@@ -127,6 +137,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Tests/Nop.Core.Tests/packages.config
   detection_source: Tests/Nop.Core.Tests/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -138,6 +149,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Tests/Nop.Core.Tests/packages.config
   detection_source: Tests/Nop.Core.Tests/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -150,6 +162,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/NopCommerce.sln
   detection_source: NopCommerce.sln
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -162,6 +175,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/service/9673/default_debf406cb448b8b966a6f0bda56f1617cad2a5dc.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Plugins/Nop.Plugin.Payments.AuthorizeNet/packages.config
   detection_source: Plugins/Nop.Plugin.Payments.AuthorizeNet/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -173,6 +187,7 @@ tools:
   category: Application Utilities
   sub_category: Security
   image_url: https://img.stackshare.io/service/4482/dVHQiE0t_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web.Framework/packages.config
   detection_source: Presentation/Nop.Web.Framework/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -182,6 +197,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/Content/editors/tinymce/plugins/preview/example.html
   detection_source: Presentation/Nop.Web/Content/editors/tinymce/plugins/preview/example.html
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -195,7 +211,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12871/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/Administration/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/Administration/packages.config
   detection_source: Presentation/Nop.Web/Administration/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -208,7 +224,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14513/default_f01c1401ca81d7eb7c81dfa95e68b15527495c46.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Plugins/Nop.Plugin.ExternalAuth.Facebook/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Plugins/Nop.Plugin.ExternalAuth.Facebook/packages.config
   detection_source: Plugins/Nop.Plugin.ExternalAuth.Facebook/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -222,7 +238,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13056/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Services/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Services/packages.config
   detection_source: Libraries/Nop.Services/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -236,7 +252,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13762/default_300517a0879bc10cd5f0e9cabc8af8536f57ba23.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
   detection_source: Libraries/Nop.Data/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -249,7 +265,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13687/default_454d3c2483df503a4aa32113a89e3edb23190d51.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
   detection_source: Libraries/Nop.Data/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -263,7 +279,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web.Framework/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web.Framework/packages.config
   detection_source: Presentation/Nop.Web.Framework/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -277,7 +293,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13425/default_12ffcfadaf9c605d855c3901f9dfe0c11282537c.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Presentation/Nop.Web/packages.config
   detection_source: Presentation/Nop.Web/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -291,7 +307,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13512/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Tests/Nop.Core.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Tests/Nop.Core.Tests/packages.config
   detection_source: Tests/Nop.Core.Tests/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
@@ -304,7 +320,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14676/default_48864d946ebda6ea32754eb8405d1d1897e6a8f6.png
-  detection_source_url: github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
+  detection_source_url: https://github.com/mauriliofilho/nopCommerce-Linux-Mysql/blob/master/Libraries/Nop.Data/packages.config
   detection_source: Libraries/Nop.Data/packages.config
   last_updated_by: Karim Lalani
   last_updated_on: 2013-01-16 20:59:58.000000000 Z
